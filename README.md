@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="" width="700"/>
+  <img src="https://files.catbox.moe/teaf71.png" width="250"/>
 </p>
 
 
