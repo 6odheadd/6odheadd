@@ -3,7 +3,7 @@
  ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
 <br><br>
   
-<a href="https://hits.sh/github.com/kaleidoInferno/"><img alt="Hits" src="https://hits.sh/github.com/kaleidoInferno.svg?label=+++++★+++++&extraCount=2333&color=dd0404&labelColor=000000"/></a>   ‎ ‎  ‎    ‎ ‎ ‎ ‎   ‎ ‎ 
+<a href="https://hits.sh/github.com/kaleidoInferno/"><img alt="Hits" src="https://hits.sh/github.com/kaleidoInferno.svg?label=+++++++apples+++++++&extraCount=2333&color=dd0404&labelColor=000000"/></a> ‎   ‎ ‎ 
 
 
 
