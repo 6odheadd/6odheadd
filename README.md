@@ -7,7 +7,7 @@
 
 <br><br>
 
-$\textcolor{#ff0001}{\textsf{hello its me dave strider}}$
+$\textcolor{#ff0001}{\textsf{sup}}$
 
 <br> <br>
 ••●━━━━━━●••
