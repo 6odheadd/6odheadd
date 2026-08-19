@@ -1,17 +1,18 @@
-<div align="left">
 
 
-<a href="LINKHERE"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=TEXTHERE&color=ff0001&style=flat" alt="TEXTHERE"></a>
+<div align="center">
 
-<img src="https://files.catbox.moe/qxt0gv.png" width="50">
+<img src="https://files.catbox.moe/wshdam.png" width="500">
 
-<a href="LINKHERE"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=TEXTHERE&color=ff0001&style=flat" alt="TEXTHERE"></a>
+<div align="center">
+  
+<a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=atabook&color=ff0001&style=flat" alt="atabook"></a>
+<a href="https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch"> <img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=roblox&color=ff0001&style=flat" alt="roblox"></a>  <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=ff0001&style=flat" alt="tumblr"></a>
 
-<img src="https://files.catbox.moe/qxt0gv.png" width="50">
 
-<a href="LINKHERE"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=TEXTHERE&color=ff0001&style=flat" alt="TEXTHERE"></a>
 
-all of ts is a wip btw 
+
+$\textcolor{#ff0001}{\textsf{yo}}$
 
 
 
