@@ -8,7 +8,7 @@
 <div align="center">
   
 <a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=atabook&color=ff0001&style=flat" alt="atabook"></a>
-<a href="https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch"> <img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=roblox&color=ff0001&style=flat" alt="roblox"></a>  <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=ff0001&style=flat" alt="tumblr"></a>
+<a href="https://6odheaded.straw.page/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=strawpage&color=ff0001&style=flat" alt="strawpage"></a> <a href="https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch"> <img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=roblox&color=ff0001&style=flat" alt="roblox"></a>  <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=ff0001&style=flat" alt="tumblr"></a>
 
 
 
